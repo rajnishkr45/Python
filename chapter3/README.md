@@ -1,12 +1,26 @@
-## midterm exm has come so unable to code that much 
+# 📝 Midterm Exam Update
 
-*Exam DATE*
+Hey everyone! I was unable to code much recently due to my **midterm exams**.
 
-22/05/2025 to 31/05/2025
+## 📅 Exam Dates  
+**22/05/2025** → **31/05/2025**
 
-# Exam is over now and i am back again
+---
 
-- 02/06/2025
+# ✅ I'm Back – Exam is Over!
 
-In chapter 3 i learnt about 
-string and its mehoeds such as len, replace , upper , lower , find .etc
+**Date:** 02/06/2025
+
+---
+
+## 📚 Chapter 3 – What I Learned
+
+In **Chapter 3**, I studied **Python strings** and explored several commonly used string methods:
+
+- `len()` – Returns the length of a string  
+- `replace()` – Replaces a specified part of the string  
+- `upper()` – Converts the string to uppercase  
+- `lower()` – Converts the string to lowercase  
+- `find()` – Finds the first occurrence of a specified value  
+
+Excited to continue learning and building! 🚀
