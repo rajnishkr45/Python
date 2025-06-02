@@ -4,6 +4,7 @@
 # Double quote = "Rajnish"
 # Triple quote = '''Rajnish''' => multi line string
 
+# Strings are immutable which means we cannot change the origianl string by running any functions 
 name = "Rajnish"
 
 # Lenght of string 
