@@ -2,4 +2,8 @@
 
 *Exam DATE*
 
-22/05/2025 to 27/05/2025
+22/05/2025 to 31/05/2025
+
+# Exam is over now and i am back again
+
+- 02/06/2025
