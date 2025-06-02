@@ -3,6 +3,7 @@
 Hey there! I'm **Rajnish**, a passionate learner diving deep into the world of **Python**. I love building, breaking, fixing, and learning new things. This repository is a reflection of my journey — as I explore Python, solve problems, and build projects!
 
 ### 🚀 About Me
+
 - 🐍 Python Enthusiast
 - 📚 Learning something new every day
 - 🌐 Portfolio: [rajnish45.netlify.app](https://rajnish45.netlify.app)
@@ -42,4 +43,3 @@ I'm open to **collaboration**, **feedback**, and **brainstorming ideas**.
 
 > ⭐ _If you find my work helpful or interesting, drop a ⭐ and follow along the journey!_  
 > 🎯 _Learning by doing. Coding with passion._
-
