@@ -8,3 +8,5 @@
 
 - 02/06/2025
 
+In chapter 3 i learnt about 
+string and its mehoeds such as len, replace , upper , lower , find .etc
