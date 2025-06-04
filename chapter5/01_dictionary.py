@@ -7,6 +7,7 @@ marks = {
     "Ramlal": 31
 }
 
+marks2 = {} # Empty dictionary
 
 print(marks, type(marks))
 
@@ -16,3 +17,4 @@ print(marks["Rajnish"]) # It will print the marks of Rajnish
 # It is mutuable 
 # It is indexed 
 # It stores and retrive data in O(1)
+# No duplicate items
