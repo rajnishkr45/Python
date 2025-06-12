@@ -15,6 +15,7 @@ print("""\n------------ Rules of game ------------\n
       """)
 
 attempts = 0
+output = None
 
 guess = game_functions.generate_number()
 
@@ -26,7 +27,27 @@ else:
     print("You entered invalid key, start the game again !")
     exit()
 
+
 while guess != user_input and attempts != 5:
-    print(game_functions.check_the_guess(user_input, guess))
+    status = game_functions.check_the_guess(user_input, guess)
+
+    if status == 0:
+        print("Congratulations your guess was perfect")
+        output = status
+        break
+    
+    elif status == 1:
+        print("Your guess was greater than actual answer !")
+        user_input = int(input("Enter the guess again: "))
+        output = status
+        
+    elif status == -1:
+        print("Your guess was smaller than actual answer !")
+        user_input = int(input("Enter the guess again: "))
+        output = status
+        
+    else:
+        print("Invalid input, Start the game again !")
+        exit()
 
     attempts += 1
