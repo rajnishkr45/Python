@@ -7,16 +7,16 @@ def generate_number():
 
 def check_the_guess(user_guess, actual_answer):
     if user_guess == actual_answer:
-        return "You guess it correct, Congratulations"
+        return 0  # correct guess
 
     elif user_guess > actual_answer:
-        return "Your guess is bigger than answer, samller number please"
+        return 1  # user answer greater than actual answer
 
     elif user_guess < actual_answer:
-        return "Your guess is smaller than answer, bigger number please"
+        return -1  # user answer is less than actual answer
 
     else:
-        return "Invalid Input"
+        return 404  # Invalid input
 
 
 def store_game_data(username, number_of_guess):
